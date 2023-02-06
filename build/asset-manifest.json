@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28e1ba4f.css",
+    "main.js": "/static/js/main.d3a665d7.js",
+    "static/js/27.13946c2e.chunk.js": "/static/js/27.13946c2e.chunk.js",
+    "static/media/add-image.jpg": "/static/media/add-image.a80ff53fc3e0953f9318.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.b2613fefd70f709152d6.jpg",
+    "static/media/airbnbRed.png": "/static/media/airbnbRed.d4c2314d5945d9c2b26c.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.28e1ba4f.css",
+    "static/js/main.d3a665d7.js"
+  ]
+}
